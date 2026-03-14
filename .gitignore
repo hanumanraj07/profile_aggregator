@@ -32,3 +32,10 @@ pnpm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+node_modules/
+server/node_modules/
+.env
+.cache/
+server/.cache/
+dist/
