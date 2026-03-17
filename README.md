@@ -1,6 +1,6 @@
 # Developer Profile Aggregator (MERN)
 
-Full-stack platform to aggregate developer stats from GitHub, LeetCode, YouTube, LinkedIn, Twitter (X), and Sololearn in one dashboard.
+Full-stack platform to aggregate developer stats from GitHub, LeetCode, YouTube, and Sololearn in one dashboard.
 
 ## Features
 
